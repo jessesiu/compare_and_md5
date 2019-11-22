@@ -2,7 +2,8 @@
 
 
 ##
-The script will download the md5sum file from FTP server, than compare with database to find any mismatch between FTP and database.
+The script will download the md5sum file from FTP server, than compare with database to find any mismatches between FTP and database.
+
 It will also update dataset's files md5 value via the md5sum file.
 
 ## Step1
